@@ -3,6 +3,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eskay58&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eskay58&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eskay58&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eskay58
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Eskay58/Eskay58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
