@@ -1,7 +1,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eskay58&theme=onedark)
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskay58&theme=onedark&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eskay58&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskay58&theme=onedark&layout=compact&show_icons=true&hide_border=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eskay58&theme=onedark&show_icons=ture&hide_border=true" />
 </p>
 
 <!--
